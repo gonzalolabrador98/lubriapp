@@ -1,0 +1,10 @@
+.sidebar {
+  width: 250px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+}
