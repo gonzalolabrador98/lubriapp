@@ -1,5 +1,6 @@
 export const vehiculos = [
   {
+    id: 1,
     fecha: '10/10/2021',
     patente: 'AD004WU',
     filtroAceite: 'Filtro',
@@ -13,6 +14,7 @@ export const vehiculos = [
     refrigerante: 'Refrigerante',
   },
   {
+    id: 2,
     fecha: '6/06/2021',
     patente: 'AE941VW',
     filtroAceite: 'Filtro',
